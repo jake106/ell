@@ -12,7 +12,7 @@ except FileNotFoundError:
 # Core dependencies
 # These are packages that are always required for the base functionality of 'ell-ai'.
 install_requires = [
-    "numpy",
+    "numpy==2.2.6",
     "dill",
     "colorama",
     "cattrs",
