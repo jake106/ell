@@ -85,7 +85,7 @@ extras_require["all"] = sorted(list(set(all_extras_list)))
 
 setuptools.setup(
     name="ell-ai",
-    version="0.0.17", # Directly from tool.poetry.version
+    version="0.0.18", # Directly from tool.poetry.version
     author="William Guss", # From tool.poetry.authors (first entry)
     author_email="will@lrsys.xyz", # From tool.poetry.authors (first entry)
     description="ell - the language model programming library", # From tool.poetry.description
