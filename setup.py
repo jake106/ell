@@ -95,7 +95,7 @@ setuptools.setup(
     # project_urls can include other relevant links like documentation, issues, etc.
     project_urls={
         "Homepage": "https://docs.ell.so", # From tool.poetry.homepage
-        "Repository": "https://github.com/MadcowD/ell", # Also from tool.poetry.repository
+        "Repository": "https://github.com/jake106/ell", # Also from tool.poetry.repository
     },
     # packages should use setuptools.find_packages with 'where' to locate packages under 'src'
     packages=setuptools.find_packages(where="src"),
